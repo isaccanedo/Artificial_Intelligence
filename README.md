@@ -1,7 +1,5 @@
 [![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
 
-<h1 align="center">crème de la crème of AI courses</h1>
-
 ## 👋 hello
 
 This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI). Whether you're a beginner or an experienced learner, there's something here for everyone!
