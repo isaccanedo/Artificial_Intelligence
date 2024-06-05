@@ -1,5 +1,3 @@
-## 👋 hello
-
 This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI). Whether you're a beginner or an experienced learner, there's something here for everyone!
 
 ## 👀 looking for ideas
